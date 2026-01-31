@@ -60,7 +60,7 @@ project/
 1. Склонируйте репозиторий или скачайте архив:
 
    ```bash
-   git clone https://github.com/your-username/simple-store.git
+   git clone https://github.com/NataliyaYadykina/storeJsBootstrap.git
    ```
 
 2. Откройте файл `index.html` в любом современном браузере
